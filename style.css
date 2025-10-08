@@ -1,5 +1,6 @@
 p{
 
+  max-width: 1000px;
     color:greenyellow;
    font-weight: bolder;
    font-size: x-large;
@@ -40,12 +41,17 @@ body{
 
 img{
 
-width:500px;
+width:350px;
 border:10px;
 border-style: dashed;
 
 }
 
   
+h2
 
+{
+  font-size: xx-large;
+  color: greenyellow;
+}
 
